@@ -1,9 +1,8 @@
 ############################ banner ##########################
 banner:
   enable : true
-  title : "Best Beauty Cream For Your Skin"
-  content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et
-          dolore magna aliquyam erat, sed dia"
+  title : "Belanja Berkah Bermanfaat"
+  content : "Menyediakan Al-Qur'an Terlengkap, Murah, dan Berkualitas. Bisa Pembayaran Di Tempat (COD)"
   image : "images/banner.png"
   # button
   button:
@@ -18,10 +17,9 @@ banner:
 ########################## About ##############################
 about:
   enable : true
-  title : "About Our Product"
-  content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et
-          dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet
-          clita kasd gubergren,"
+  title : "Al-Madrasah Duo Latin"
+  content : "Al-Qur'an Baca Super Mudah dengan Menggunakan Duo Transliterasi Latin sesuai Bacaan Panjang Pendek,
+  dilengkapi Belajar Kuhum Tajwid Mudah dam Keterangan Tanda Waqah Mudah Jeda dan terus."
   image : "images/about.png"
 
 
@@ -66,7 +64,7 @@ material:
 ########################### Advantage #########################
 advantage:
   enable : true
-  title : "Advantages Of Using <br> Our Product"
+  title : "Al-Qur'an Custom Nama <br> Our Product"
   subtitle : "Lorem ipsum dolor sit amet, da decal consetetur<br> sadipscing elitr, sed diam nonumya eirmod"
   image : "images/advantage.png"
   advantageList:
@@ -82,9 +80,14 @@ advantage:
 ######################## Promo Video ##########################
 video:
   enable : true
-  title : "How To Use This Product?"
-  content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et
-          dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et."
+  title : "Apa Keunggulan Produk Kami?"
+  content : "1. Terjemah perkata blok yang mudah dipahami pada saat menghafal.
+2. Dibagi 7 Kotak, ayat yang dihafal lebih pendek sehingga cepathafal.
+3. Blok warna awalan ayat untuk memudahkan mengingat awalan ayat.
+4. Terdapat Awalan ayat dan omor ayat disamping mushaf untuk mengingat hafalan setiap ayat secara berurutan.
+5. Setiap Juz memiliki warna yang berbeda untuk memudahkan mengingat setiap Juz.
+6. Dilengkapi tajwid warna, untuk membaca sesuai kaidah tajwid.
+7. Kertas Quran Premium, lebihtipis, eksklusif dan lebih nyaman dibaca."
   videoThumb : "images/video-thumb.jpg"
   videoURL : "https://www.youtube.com/embed/wf4F2-9UXUo"
 
