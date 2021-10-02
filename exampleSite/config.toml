@@ -1,7 +1,7 @@
 ######################## default configuration ####################
 baseURL = "https://examplesite.com"
 languageCode = "en"
-title = "Insan Cita Multimedia - Web Promosi"
+title = "Insan Cita Multimedia - Belanja Berkah, Hemat Bermanfaat"
 theme = "hargo"
 summaryLength = "20"
 paginate = 10
@@ -84,7 +84,7 @@ disqusShortname = ""
 logo = "images/logo.png"
 home = "Home"
 # Meta data
-description = "This is meta description"
+description = "Insan Cita Multimedia - Belanja Berkah, Hemat Bermanfaat"
 author = "Themefisher"
 # google map
 gmapAPI = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
@@ -96,7 +96,7 @@ googleAnalitycsID = "" # Your ID
 # Contact Information
 mobile = "+6281223947372"
 email = "insancitamultimedia@gmail.com"
-location = "Dhaka, Bangladedsh"
+location = "Ciherang Wetan RT.002 RW.002, Kelurahan Ciakar, Kecamatan Cibeureum, Kota Tasikmalaya"
 # copyright
 copyright = "Copyright &copy; 2021 Insan Cita Multimedia All Rights Reserved."
 # Snipcart Credentials
