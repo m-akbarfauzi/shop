@@ -3,21 +3,21 @@ contact:
   enable : true
   # office
   office:
-    title : "Central Office"
-    content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna"
+    title : "Alamat"
+    content : "Ciherang Wetan RT.002 RW.002, Kelurahan Ciakar, Kecamatan Cibeureum, Kota Tasikmalaya, Jawa Barat ID"
     # other information comes from "config.toml"
 
   # opennig hour
   opennigHour:
-    title : "Opening Hours"
+    title : "Jam Buka"
     dayTimeList:
-      - dayTime : "Monday: 9:00 – 19:00"
-      - dayTime : "Tuesday: 9:00 – 19:00"
-      - dayTime : "Wednesday: 9:00 – 19:00"
-      - dayTime : "Thursday: 9:00 – 19:00"
-      - dayTime : "Friday: 9:00 – 19:00"
-      - dayTime : "Saturday: 9:00 – 19:00"
-      - dayTime : "sunday: 9:00 – 19:00"
+      - dayTime : "Senin: 08:00 – 21:00"
+      - dayTime : "Selasa: 08:00 – 21:00"
+      - dayTime : "Rabu: 08:00 – 21:00
+      - dayTime : "Kamis: 08:00 – 21:00"
+      - dayTime : "Jum'at: 08:00 – 21:00"
+      - dayTime : "Sabtu: 08:00 – 21:00"
+      - dayTime : "Minggu: 08:00 – 21:00"
 
 ####################### google map ########################
 map:
