@@ -4,7 +4,7 @@ date: 2021-10-02T11:22:16+06:00
 draft: false
 
 # meta description
-description : "For Glowing Skin"
+description : "Ukuran A5 ( 15cm x 22cm )"
 
 # product Price
 price: "69.000"
