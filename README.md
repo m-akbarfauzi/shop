@@ -109,8 +109,3 @@ share those images.
 We are available for **Hiring** for your next HUGO project. Please, check our
 [services](https://gethugothemes.com/services/?ref=github)
 
-<!-- premium themes -->
-## Premium Themes By Us
-| [![Mega-Bundle-HUGO](https://demo.gethugothemes.com/thumbnails/bundle.webp)](https://gethugothemes.com/bundle) | [![revolve](https://demo.gethugothemes.com/thumbnails/revolve.webp)](https://gethugothemes.com/products/revolve/) | [![navigator](https://demo.gethugothemes.com/thumbnails/navigator.webp)](https://gethugothemes.com/products/navigator/) |
-|:---:|:---:|:---:|
-| **Premium Theme Bundle (40+)** | **Revolve** | **Navigator** |
