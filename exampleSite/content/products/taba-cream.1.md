@@ -1,14 +1,14 @@
 ---
-title: "Taba Cream"
-date: 2019-10-17T11:22:16+06:00
+title: "Al-Madrasah Duo Latin"
+date: 2021-10-02T11:22:16+06:00
 draft: false
 
 # meta description
 description : "For Glowing Skin"
 
 # product Price
-price: "20.00"
-priceBefore: "25.00"
+price: "69.000"
+priceBefore: "89.000"
 
 # Product Short Description
 shortDescription: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut"
@@ -22,10 +22,10 @@ type: "products"
 # product Images
 # first image will be shown in the product page
 images:
-  - image: "images/products/product-2.png"
-  - image: "images/products/product-1.png"
-  - image: "images/products/product-3.png"
-  - image: "images/products/product-4.png"
+  - image: "images/products/duo-latin-2.jpg"
+  - image: "images/products/duo-latin-1.jpg"
+  - image: "images/products/duo-latin-3.jpg"
+  - image: "images/products/duo-latin-4.jpg"
 ---
 
 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea 
