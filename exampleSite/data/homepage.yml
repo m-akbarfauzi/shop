@@ -42,23 +42,23 @@ material:
           dol."
   materialItem:
     # material item loop
-    - title : "Matcha Seeds"
-      image : "images/material/material-1.png"
+    - title : "Quran"
+      image : "images/products/hafazan-7-kata-1.jpg"
       content : "Lorem ipsum dolor sit amet,be consetetur sadipscing elitr, sed diam nonumy eirmod tem"
       
     # material item loop
-    - title : "Aloe Vera"
-      image : "images/material/material-2.png"
+    - title : "Qur'an"
+      image : "images/products/hafazan-7-kata-2.jpg"
       content : "Lorem ipsum dolor sit amet,be consetetur sadipscing elitr, sed diam nonumy eirmod tem"
       
     # material item loop
-    - title : "Turmeric"
-      image : "images/material/material-3.png"
+    - title : "Quran Custom Nama"
+      image : "images/products/hafazan-7-kata-3.jpg"
       content : "Lorem ipsum dolor sit amet,be consetetur sadipscing elitr, sed diam nonumy eirmod tem"
       
     # material item loop
-    - title : "Tulshi leaf"
-      image : "images/material/material-4.png"
+    - title : "Iqro"
+      image : "images/products/hafazan-7-kata-4.jpg"
       content : "Lorem ipsum dolor sit amet,be consetetur sadipscing elitr, sed diam nonumy eirmod tem"
 
 ########################### Advantage #########################
