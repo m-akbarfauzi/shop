@@ -1,7 +1,7 @@
 ######################## default configuration ####################
 baseURL = "https://examplesite.com"
 languageCode = "en"
-title = "Hargo | Hugo Ecommerce Site"
+title = "Insan Cita Multimedia - Web Promosi"
 theme = "hargo"
 summaryLength = "20"
 paginate = 10
@@ -88,20 +88,20 @@ description = "This is meta description"
 author = "Themefisher"
 # google map
 gmapAPI = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
-mapLatitude = "51.5223477"
-mapLongitude = "-0.1622023"
+mapLatitude = "-7.3560335"
+mapLongitude = "108.275656"
 mapMarker = "images/marker.png"
 # Google Analitycs
 googleAnalitycsID = "" # Your ID
 # Contact Information
-mobile = "0124857985320"
-email = "demo@email.com"
+mobile = "+6281223947372"
+email = "insancitamultimedia@gmail.com"
 location = "Dhaka, Bangladedsh"
 # copyright
-copyright = "| Copyright &copy; 2019 [Gethugothemes](https://gethugothemes.com) All Rights Reserved |"
+copyright = "Copyright &copy; 2021 Insan Cita Multimedia All Rights Reserved."
 # Snipcart Credentials
 snipcartApiKey = "M2E5YjA3NjMtYzRiYS00YzVjLWEyYWYtNDY5ZDI0OWZhYjg5"
-currencySymbol = "$"
+currencySymbol = "Rp"
 
   # Preloader
   [params.preloader]
@@ -118,7 +118,7 @@ currencySymbol = "$"
   # Social Site
   [[params.social]]
   icon = "ti-facebook"
-  link = "#"
+  link = "https://www.facebook.com/profile.php?id=100071216985439"
 
   [[params.social]]
   icon = "ti-twitter-alt"
