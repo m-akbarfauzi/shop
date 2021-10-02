@@ -28,7 +28,7 @@ cta:
   enable : true
   title : "Gratis Ongkir Se-Pulau Jawa"
   content : "Syarat & Ketentuan Berlaku"
-  image : "images/cta.png"
+  image : "images/delivery.png"
   overlayImage : "images/cta-overlay.png"
   button:
     label : "All Products"
