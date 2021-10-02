@@ -66,15 +66,15 @@ advantage:
   enable : true
   title : "Al-Qur'an Custom Nama <br> Our Product"
   subtitle : "Lorem ipsum dolor sit amet, da decal consetetur<br> sadipscing elitr, sed diam nonumya eirmod"
-  image : "images/advantage.png"
+  image : "images/products/duo-latin-2.jpg"
   advantageList:
     # advantage list loop
-    - listItem : "Extremely lightweight"
-    - listItem : "Excellent breathability"
-    - listItem : "Can increase Cell activation"
-    - listItem : "Glowing Skin In 7 Days"
-    - listItem : "Increasing Glow Of Face"
-    - listItem : "More Beautiful Face Skin"
+    - listItem : "Terjemah perkata blok yang mudah dipahami pada saat menghafal."
+    - listItem : "Dibagi 7 Kotak, ayat yang dihafal lebih pendek sehingga cepathafal."
+    - listItem : "Blok warna awalan ayat untuk memudahkan mengingat awalan ayat."
+    - listItem : "Terdapat Awalan ayat dan omor ayat disamping mushaf untuk mengingat hafalan setiap ayat secara berurutan."
+    - listItem : "Setiap Juz memiliki warna yang berbeda untuk memudahkan mengingat setiap Juz."
+    - listItem : "Dilengkapi tajwid warna, untuk membaca sesuai kaidah tajwid."
 
 
 ######################## Promo Video ##########################
