@@ -1,7 +1,7 @@
 ############################ banner ##########################
 banner:
   enable : true
-  title : "Belanja Berkah Bermanfaat"
+  title : "Belanja Berkah, Hemat Bermanfaat"
   content : "Menyediakan Al-Qur'an Terlengkap, Murah, dan Berkualitas. Bisa Pembayaran di Tempat (COD)"
   image : "images/banner.png"
   # button
@@ -26,8 +26,8 @@ about:
 ###################### Call to action ########################
 cta:
   enable : true
-  title : "Gratis Ongkir"
-  content : "Available for limited time only. Grab one while you still can!"
+  title : "Gratis Ongkir Se-Pulau Jawa"
+  content : "Syarat & Ketentuan Berlaku"
   image : "images/cta.png"
   overlayImage : "images/cta-overlay.png"
   button:
