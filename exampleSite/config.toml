@@ -122,12 +122,12 @@ currencySymbol = "Rp. "
 
   [[params.social]]
   icon = "ti-instagram"
-  link = "https://instagram.com/insancitamultimedia"
+  link = "https://instagram.com/insancitamultimedia/"
 
   [[params.social]]
-  icon = "ti-whatsapp"
-  link = "https://wa.me/6281223947372"
+  icon = "ti-themify-favicon"
+  link = "https://wa.me/6281223947372/"
 
   # Contact Form
   [params.contact]
-  formAction = "#" # contact form works with formspree.io
+  formAction = "https://formspree.io/f/mnqleygg" # contact form works with formspree.io
