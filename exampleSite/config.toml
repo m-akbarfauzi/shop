@@ -121,20 +121,12 @@ currencySymbol = "Rp. "
   link = "https://www.facebook.com/profile.php?id=100071216985439"
 
   [[params.social]]
-  icon = "ti-twitter-alt"
-  link = "#"
-
-  [[params.social]]
-  icon = "ti-youtube"
-  link = "#"
-
-  [[params.social]]
   icon = "ti-instagram"
-  link = "#"
+  link = "https://instagram.com/insancitamultimedia"
 
   [[params.social]]
-  icon = "ti-pinterest"
-  link = "#"
+  icon = "ti-whatsapp"
+  link = "https://wa.me/6281223947372"
 
   # Contact Form
   [params.contact]
